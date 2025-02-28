@@ -1,6 +1,6 @@
 [project]
 name = "pietro-settings-manager"
-version = "1.0.1"
+version = "1.0.2"
 authors = [
 	{ name="P1etrodev", email="undefinedpietro@gmail.com" },
 ]
