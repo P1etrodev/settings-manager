@@ -1,3 +1,5 @@
+[![CD](https://github.com/P1etrodev/settings-manager/actions/workflows/publish.yml/badge.svg)](https://github.com/P1etrodev/settings-manager/actions/workflows/publish.yml)
+
 # SettingsManager
 
 A simple Python class for managing configuration settings using an INI file. The class provides methods to load, save, get, and set configuration values, with support for default settings and type conversion.
